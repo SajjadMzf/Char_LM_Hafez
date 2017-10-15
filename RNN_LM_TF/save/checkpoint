@@ -1,0 +1,2 @@
+model_checkpoint_path: "Shakespeare"
+all_model_checkpoint_paths: "Shakespeare"
